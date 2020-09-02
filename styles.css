@@ -1,0 +1,61 @@
+.of-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* Menta Healthy Market */
+div#snippet_content {
+  display: none !important;
+}
+
+/* Estilos personalizados Menta Helathy Market */
+/* Propios */
+.of-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* Header */
+.te_header_style_2_main {
+  background: #000;
+}
+
+.te_header_style_2_main .container.te_header_style_2_inner .row.py-3.align-items-center {
+  padding: .5rem 0 !important;
+}
+
+.te_header_style_2_main .container.te_header_style_2_inner .row.py-3.align-items-center a.navbar-brand.logo.te_header_before_logo img {
+  height: 4rem;
+}
+
+.te_header_style_2_main a, .te_header_style_2_main i, .te_header_style_2_main svg {
+  color: #fff;
+}
+
+.te_header_style_2_main .dropdown.te_user_account.show * {
+  color: #5cab31;
+}
+
+.te_header_style_2_main .te_header_lang {
+  display: none !important;
+}
+
+/* Body */
+/* Footer */
+footer {
+  background: #f7f3ea;
+}
+
+footer ul.te_footer_info_ept li a, footer ul.te_footer_info_ept li span, footer ul.te_footer_info_text li a, footer ul.te_footer_info_text li span {
+  font-size: 0.8125rem;
+  color: #fff;
+}
+
+footer > #footer {
+  background: #547859;
+}
+
+footer #footer section.s_text_block.pt32 {
+  padding: 0 0 50px 0;
+}
+/*# sourceMappingURL=styles.css.map */
