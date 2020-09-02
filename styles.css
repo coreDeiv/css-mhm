@@ -21,7 +21,7 @@ div#snippet_content {
 }
 
 .te_header_style_2_main .container.te_header_style_2_inner .row.py-3.align-items-center {
-  padding: .5rem 0 !important !important;
+  padding: .5rem 0 !important;
 }
 
 .te_header_style_2_main .container.te_header_style_2_inner .row.py-3.align-items-center a.navbar-brand.logo.te_header_before_logo img {
@@ -37,7 +37,7 @@ div#snippet_content {
 }
 
 .te_header_style_2_main .te_header_lang {
-  display: none !important !important;
+  display: none !important;
 }
 
 /* Body */
